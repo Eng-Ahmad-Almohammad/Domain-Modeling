@@ -15,4 +15,8 @@
 ## Generate random numbers
 ### To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function for just this sort of occasion.
 ### The function uses both Math.floor and Math.random to calculate and return a random integer between min and max.
+![code1](https://user-images.githubusercontent.com/70091044/93015364-878ed700-f5c1-11ea-834d-3595e0808566.PNG)
+## Calculate daily Likes
+### Popularity of a video is measured in Likes. And the formula for calculating Likes is the number of viewers times the percentage of viewers who'll Like a video. In other words, viewers times percentage. To calculate the number of viewers per day, generate a random number between 10 and 30 and then multiply it by the epic rating of that video.
+
 
